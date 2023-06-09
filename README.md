@@ -1,4 +1,7 @@
 # K-urse_Detection_with_BERT
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+
 ## Overview
 **K-urse_Detection_with_BERT** : Korean Cursing expression Detection with fine-tuned klue_BERT
 
