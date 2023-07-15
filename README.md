@@ -29,7 +29,7 @@ See this model on HuggingFace 🤗 : [Link](https://huggingface.co/Tolerblanc/kl
 | klue-BERT base(Our best result) | **0.89** | **0.75** | 0.80 | **0.78** |
 
 ## Demo with HuggingFace's Space 🤗
-Try Demo Here! [Go to HuggingFace Space](https://huggingface.co/datasets/Tolerblanc/Demo_Kurse_detection)
+Try Demo Here! [Go to HuggingFace Space](https://huggingface.co/spaces/Tolerblanc/Demo_Kurse_detection)
 
 ## Reference
 - Smilegate-AI's Korean Unsmile Dataset : [Link](https://huggingface.co/datasets/smilegate-ai/kor_unsmile)
